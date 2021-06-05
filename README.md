@@ -1,20 +1,28 @@
-- 👋 Hi, I’m Daryl Nauman. I'm an aspiring full-stack web developer studying at a University of Toronto School of Continuing Studies Coding Boot Camp.
+# Hello! 👋
 
-- 👀 I’m interested in web development, technology, cycling, running, and music.
+Welcome to my GitHub profile! My name is Daryl Nauman and I am an aspiring full-stack web developer studying at the [University of Toronto School of Continuing Studies](https://bootcamp.learn.utoronto.ca/).
 
-- 🌱 I’m currently learning ...
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> "&nbs;&nbs;&nbs;&nbs;" <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>" &nbs;&nbs;&nbs;&nbs;" <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+## 💻 Toolbox
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>
 
-- 📫 How to reach me:
- <a href="https://www.linkedin.com/in/darylnauman/" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:darylnauman@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## 👀 Interests 
+-  I’m interested in web development, technology, cycling, running, music and concerts.
 
+## 📫 Contact Me 
+ - [LinkedIn](https://www.linkedin.com/in/darylnauman/)
+ - [Email](mailto:darylnauman@gmail.com)
+
+## 📖 Education
+- Executive MBA [Athabasca University](https://www.athabascau.ca/)
+- Bachelor of Science in Public Administration [University of Arizona](http://www.arizona.edu)
 
 <!---
 darylnauman/darylnauman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m looking to collaborate on ...
+
+- 🌱 I’m currently learning 
 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 --->
