@@ -11,6 +11,7 @@ Welcome to my GitHub profile! My name is Daryl Nauman and I am an aspiring full-
 ## 📫 Contact Me 
  - [LinkedIn](https://www.linkedin.com/in/darylnauman/)
  - [Email](mailto:darylnauman@gmail.com)
+ - [GitHub](https://github.com/darylnauman)
 
 ## 📖 Education
 - Executive MBA [Athabasca University](https://www.athabascau.ca/)
@@ -24,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning 
 
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 --->
 
 
