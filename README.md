@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Daryl Nauman and welcome to my GitHub profile! I am a full-stack web developer studying at the [University of Toronto School of Continuing Studies](https://bootcamp.learn.utoronto.ca/). I have an Executive MBA and previous leadership experience at post-secondary institutions. I love the connections I have made and continue to make with others in this field.
+My name is Daryl Nauman and welcome to my GitHub profile! I am a full-stack web developer studying at the [University of Toronto School of Continuing Studies](https://bootcamp.learn.utoronto.ca/). I have an Executive MBA and previous leadership experience at post-secondary institutions.
 
 As I complete my studies (early August 2021), I am looking forward to joining a team where I can utilize my skills, continue to learn and help advance an organization's goals to make a positive impact. Feel free to reach out.
 
