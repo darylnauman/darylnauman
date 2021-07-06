@@ -2,7 +2,7 @@
 
 My name is Daryl Nauman and welcome to my GitHub profile! I am a full-stack web developer studying at the [University of Toronto School of Continuing Studies](https://bootcamp.learn.utoronto.ca/). I have an Executive MBA and previous leadership experience at post-secondary institutions. I love the connections I have made and continue to make with others in this field.
 
-As I complete my studies (early August 2021), I am looking to join a team where I can utilize my skills, continue to learn and help advance an organization's goals to make a positive impact. Feel free to reach out.
+As I complete my studies (early August 2021), I am looking forward to joining a team where I can utilize my skills, continue to learn and help advance an organization's goals to make a positive impact. Feel free to reach out.
 
 ## 💻 Toolbox
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node JS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mySQL Logo" width="50" height="50">
