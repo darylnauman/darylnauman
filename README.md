@@ -8,7 +8,7 @@ My name is Daryl Nauman and welcome to my GitHub profile! I am a full-stack web 
 ## 🌱 Current / Upcoming Learning
 - Redux
 - More React
-- On-going practice and further learning!
+- On-going practice, review and further learning!
 
 ## 👀 Interests 
 -  I’m interested in web development, technology, cycling, running and music.
