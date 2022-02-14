@@ -8,6 +8,7 @@ My name is Daryl Nauman and welcome to my GitHub profile! I am a full-stack web 
 ## 🌱 Current Learning & Projects
 - [Chingu](https://www.chingu.io/) Voyage 37
 - [100Devs](https://leonnoel.com/100devs/)
+- On-going practice, review and further learning!
 
 ## 🏗️ Recent Projects
 - Chingu Voyage 36: [Token Train: Your station for all things crypto and NFT](https://tokentrain.netlify.app/) 
