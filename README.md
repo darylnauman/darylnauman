@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Daryl Nauman and welcome to my GitHub profile! I am both a Site Reliability Engineer and a full-stack web developer with a coding certificate from the [University of Toronto School of Continuing Studies](https://bootcamp.learn.utoronto.ca/). I have an Executive MBA and previous leadership experience at post-secondary institutions. 
+My name is Daryl Nauman and welcome to my GitHub profile! I am both a DevOps / Site Reliability Engineer and a full-stack web developer with a coding certificate from the [University of Toronto School of Continuing Studies](https://bootcamp.learn.utoronto.ca/). I have an Executive MBA and previous leadership experience at post-secondary institutions. 
 
 ## 💻 Toolbox
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/>
